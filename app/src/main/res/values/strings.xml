@@ -1,3 +1,9 @@
 <resources>
   <string name="app_name">Todo App</string>
+    <string name="delete_all">Delete All</string>
+    <string name="completed_task">Completed</string>
+    <string name="pending_task">Pending</string>
+    <string name="all_task_deleted">All tasks have been Ddeleted</string>
+  <string name="task_deleted">The task has been deleted</string>
+  <string name="task_updated">The task has been updated</string>
 </resources>
